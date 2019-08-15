@@ -10,3 +10,14 @@
   font-style: italic;
   color: #c0c0c0;
 }
+
+.img {
+  width: 300px;
+  float: left;
+}
+
+.column {
+  width: 300px;
+  margin: 12px;
+  float: left;
+}
