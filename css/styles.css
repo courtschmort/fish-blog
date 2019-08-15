@@ -1,0 +1,12 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.about {
+  font-style: italic;
+  color: #c0c0c0;
+}
